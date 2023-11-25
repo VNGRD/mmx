@@ -1,0 +1,109 @@
+var DATABASE = `
+
+<3
+  TAGS : links
+  NOTE : welcome back! <3 <br><br> links -----<br><br> 📺: <a href="https://youtube.com/">yt</a> // <a href="https://twitch.tv/">ttv</a> <br> ❤️: <a href="https://www.twitter.com/">twt</a> // <a href="https://www.reddit.com/">red</a> // <a href="https:tumblr.com/dashboard">dash</a><br> 📚: <a href="https://inside.mtsac.edu/">mt.sac</a> // <a href="https://mtsac.instructure.com/">canvas</a> // <a href="https://www.medcomrn.com/mtsac/">t3</a> // <a href="https://learn.swiftriveronline.com/">swr</a><br> 🗡️: <a href="http://mail.google.com/mail/u/0/">mail</a> // <a href="https://discordapp.com/channels/@me">disc</a> // <a href="http://www.github.com/VNGRD">ghub</a> // <a href="https://www.notion.so/anri-s-dashboard-c7f0d2f5329d40af83d6a43499f26223">not</a> // <a href="https://www.weebly.com/app/home/users/138851204/sites/407159391356395900/dashboard">weeb</a><br><br><br> reminders ----- <br><br> 1. hydrate and eat something <br> 2. do your work, even if it's a little bit <br> 3. be kind to yourself and others around you <br><br> 📷 art by <a href="https://twitter.com/gildedblckstone/status/1333473140786286597?s=20">roe</a>
+  FILE : hug.jpg
+  QOTE : "𝒶𝓊𝓉 𝓋𝒾𝒶𝓂 𝒾𝓃𝓋𝑒𝓃𝒾𝒶𝓂 𝒶𝓊𝓉 𝒻𝒶𝒸𝒾𝒶𝓂."
+
+
+じぅも家のステ地クンとツンニキ
+  AUTH : ZIUMO_
+  LINK : https://twitter.com/ZIUMO_/status/1375371956946538496?s=20
+  TAGS : insp
+  TYPE : image
+  FILE : 20210503_ziumo_sky.jpg
+  WIDE : true
+
+
+DO NOT GO GENTLE INTO THAT GOOD NIGHT
+  QOTE 
+    > 'Do not go gentle into that good night, Old age should burn and rave at close of day; Rage, rage against the dying of the light.
+    & Though wise men at their end know dark is right, Because their words had forked no lightning they Do not go gentle into that good night.
+    & Good men, the last wave by, crying how bright Their frail deeds might have danced in a green bay, Rage, rage against the dying of the light.
+    & Wild men who caught and sang the sun in flight, And learn, too late, they grieved it on its way, Do not go gentle into that good night.
+    & Grave men, near death, who see with blinding sight Blind eyes could blaze like meteors and be gay, Rage, rage against the dying of the light.
+    & And you, my father, there on the sad height, Curse, bless, me now with your fierce tears, I pray. Do not go gentle into that good night.
+    & Rage, rage against the dying of the light.'
+  LINK : https://poets.org/poem/do-not-go-gentle-good-night
+  TAGS : insp
+  TYPE : quote
+
+
+ART REF
+  TAGS : links, wip
+  TYPE : note
+  NOTE : ART REF LINKS 🎨 <br><br> 1. <a href="https://www.shotdeck.com">shotdeck</a>: <i>film image database</i> <br> 2. <a href="https://www.dimensions.com">dimensions</a>: <i>potential pose referencing</i> <br> 3. <a href="https://line-of-action.com/">line of action</a>: <i>art study site with various resources available for use</i>
+
+
+SKY MUSIC SHEETS
+  TAGS : links
+  TYPE : note
+  NOTE : SKY MUSIC SHEETS 🎵 <br><br> sheet libraries: <a href="https://sky-music.herokuapp.com/songLibrary.html">heroku</a> // <a href="https://sky-music.github.io/">sky music</a> <br> - <a href="https://sky-music.github.io/songs/anime/Spirited_Away_-_Always_with_Me.html">spirited away ~ always with me</a> <br> - <a href="https://sky-music.github.io/songs/videogames/c418_sweden.png">c418 ~ sweden</a> <br> - <a href="https://sky-music.github.io/songs/videogames/Yoko_Shimomura__Dearly_Beloved.html">yoko shimomura ~ dearly beloved</a> <br> - <a href="https://sky-music.github.io/songs/videogames/Zelda__Song_Of_Storms.html">zelda ~ song of storms</a> <br> - <a href="https://sky-music.github.io/songs/classical/Debussy__Clair_de_Lune.html">debussy ~ clair de lune</a>
+
+
+星のパーティーPiñata騎士の演舞場
+  AUTH : ZIUMO_
+  LINK : https://twitter.com/ZIUMO_/status/1374663174897553412?s=20
+  TAGS : insp
+  TYPE : image
+  FILE : 20210503_ziumo_sky2.jpg
+  WIDE : true
+
+
+RICING
+  TAGS : links, wip
+  TYPE : note
+  NOTE : RICING 🍚 - <i>the art of making things look pretty</i> <br><br> theming: <a href="https://www.deviantart.com/niivu">niivu</a> // <a href="https://www.deviantart.com/undefinist">undefinitst</a> // <a href=https://www.deviantart.com/dpcdpc11">dpcdpc11</a> // <a href="https://www.deviantart.com/kdr3w">kdr3w</a> <br> resources: <a href="https://www.reddit.com/r/Rainmeter/">rm</a> // <a href="https://www.reddit.com/r/startpages">sp</a> // <a href="https://www.deviantart.com/">dA</a> <br> insp: <a href="https://www.reddit.com/r/unixporn/">uxp</a> // <a href="https://www.reddit.com/r/androidthemes/">anth</a> <br> 
+
+
+AESTHETICS
+  TAGS : links
+  TYPE : note
+  NOTE : AESTHETIC DIRECTORY ✨ <br><br> light: soleil (<a href="https://roseeadagio.tumblr.com">1</a>,<a href="https://www.pinterest.com/MDNVNGRD/personal/soleil/m">2</a>) // <a href="https://yuxyn.tumblr.com">yuna</a> <br> dark: anareta (<a href="https://anaretas.tumblr.com">1</a>,<a href="https://www.pinterest.com/MDNVNGRD/personal/anareta/">2</a>) <br> self: <a href="https://choirsongs.tumblr.com">dash</a> + <a href="https://www.pinterest.com/MDNVNGRD/personal/anri/">pins</a> + home (<a href="https://www.pinterest.com/MDNVNGRD/personal/home-insp/">1</a>,<a href="https://www.pinterest.com/victorquinnn_/its-a-chaotic-house-bby/anris-room/">2</a>)
+
+
+DO NOT STAND AT MY GRAVE AND WEEP
+  QOTE 
+    > 'Do not stand at my grave and weep, I am not there, I do not sleep.
+    & I am in a thousand winds that blow, I am the softly falling snow.
+    & I am the gentle showers of rain, I am the fields of ripening grain.
+    & I am in the morning hush, I am in the graceful rush
+    & Of beautiful birds in circling flight, I am the starshine of the night.
+    & I am in the flowers that bloom, I am in a quiet room.
+    & I am in the birds that sing, I am in each lovely thing.
+    & Do not stand at my grave and cry, I am not there. I do not die.'
+  LINK : http://www.yourdailypoem.com/listpoem.jsp?poem_id=322
+  TAGS : insp
+  TYPE : quote
+
+
+ROMANTICISING YOUR LIFE 101
+  TAGS : reminder
+  TYPE : note
+  NOTE : 𝓇𝑜𝓂𝒶𝓃𝓉𝒾𝒸𝒾𝓈𝒾𝓃𝑔 𝓎𝑜𝓊𝓇 𝓁𝒾𝒻𝑒 𝟣𝟢𝟣 ❤️ <br> love yourself. adore yourself. buy yourself a pretty bouquet from that quaint little flower shop. pay compliments to yourself whenever you randomly catch a glimpse of your reflection. get yourself gifts that you know you want and love not just things you need. stop waiting on others to do it for you. treat yourself like the princess/prince you are everyday and suddenly your life looks a lot brighter.
+  LINK : https://call-me-your-ala.tumblr.com/post/637807590786678784/romanticising-your-life-101-love-yourself-adore
+
+
+HOWL
+  AUTH : wukebaiping
+  LINK : https://twitter.com/wukebaiping/status/1396766446235963397
+  TAGS : insp
+  TYPE : image
+  FILE : howl.jpg
+  WIDE : true
+
+HABITS
+  TAGS : reminder
+  TYPE : note
+  NOTE : bring back the habits that made you happy as a child. there’s no reason you should ever have to give up harmless things that bring you joy. you don’t have to age out of having fun. finger paint. write mediocre fanfiction and questionable poetry. put chocolate chips in your waffles. sing in the bath, and while working in the yard, and while washing your hands. hammer tunelessly on a piano. spin in circles until you fall down. climb a tree. just because you’re now in charge of your life doesn’t mean you’re expected to give up on the things that make life feel worth living
+  LINK : https://silksweets.tumblr.com/post/611732277351841792/bring-back-the-habits-that-made-you-happy-as-a
+
+
+
+
+
+
+
+
+`
